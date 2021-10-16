@@ -1,10 +1,10 @@
 ## Olá, Seja bem vindo!! :hugs:
 
-#### alguns fatos sobre mim :eyes:: 
+#### alguns fatos sobre mim : 
 
 - :detective:  Eu me chamo Douglas
-- :mage_man:  Eu estou em busca de melhorar minhas habilidades e ser um excelente desenvolvedor Web
-- :mechanical_arm:  Atualmente eu estou estudando JavaScript, React e MySQL
+- :mage_man:  Eu estou buscando melhorar minhas habilidades e ser um excelente desenvolvedor Web
+- :mechanical_arm:  Atualmente eu estou estudando HTML, CSS, JavaScript, React, Redux, Context e MySQL
 
 
 ## :thinking: Quem sou eu??
