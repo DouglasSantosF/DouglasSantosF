@@ -1,16 +1,36 @@
-### Hi there 👋
+## Olá, Seja bem vindo!! :hugs:
 
-<!--
-**DouglasSantosF/DouglasSantosF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### alguns fatos sobre mim :eyes:: 
 
-Here are some ideas to get you started:
+- :detective:  Eu me chamo Douglas
+- :mage_man:  Eu estou em busca de melhorar minhas habilidades e ser um excelente desenvolvedor Web
+- :mechanical_arm:  Atualmente eu estou estudando JavaScript, React e MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## :thinking: Quem sou eu??
+
+  Eu me chamo Douglas, Atualmente sou estudante da `Trybe`. Me descobri apaixonado por esse mundo da programação e
+estou muito feliz em estar nesta jornada para ser um grande `Desenvolvedor Web`. Aqui estão alguns dos projetos que
+desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte para melhorar meus conhecimentos.
+
+### Caso queira me encontrar:
+<a href="https://www.linkedin.com/in/douglassf/" target="_blank"> 
+  <img src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" alt="logo do linkedin" width="40">
+</a>
+
+---
+
+## Minhas Habilidades
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" style="max-width:100%; margin 0 2px;" /></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60"  style="max-width:100%; margin 0 2px;" /></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="max-width:100%; margin 0 2px;"/></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="max-width:100%; margin 0 2px;"/></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50"  style="max-width:100%; margin 0 2px;" /></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70"  style="max-width:100%; margin 0 2px;" /></img>
+
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSantosF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasSantosF&show_icons=true&theme=radical)
+
