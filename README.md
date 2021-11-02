@@ -14,7 +14,7 @@ estou muito feliz em estar nesta jornada para ser um grande `Desenvolvedor Web`.
 desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte para melhorar meus conhecimentos.
 
 ### Caso queira me encontrar:
-<a href="https://www.linkedin.com/in/douglassf/" target="_blank"> 
+<a href="https://www.linkedin.com/in/douglassf/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" alt="logo do linkedin" width="40">
 </a>
 
@@ -32,8 +32,10 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSantosF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasSantosF&show_icons=true&theme=radical)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSantosF&layout=compact" width="400px"> </img>
+<img src="https://github-readme-stats.vercel.app/api?username=DouglasSantosF&show_icons=true&theme=radical" width="400px"> </img>
+</div>
 
 <img src="https://media2.giphy.com/media/ZFR9UV7j0pkSC8mdzi/giphy.gif" width="650"> </img>
 
