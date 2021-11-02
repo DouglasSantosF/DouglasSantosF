@@ -34,5 +34,8 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSantosF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasSantosF&show_icons=true&theme=radical)
 
-<img src="https://media2.giphy.com/media/ZFR9UV7j0pkSC8mdzi/giphy.gif" width="700"> </img>
+<img src="https://media2.giphy.com/media/ZFR9UV7j0pkSC8mdzi/giphy.gif" width="650"> </img>
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
