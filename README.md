@@ -37,9 +37,19 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
 <img src="https://github-readme-stats.vercel.app/api?username=DouglasSantosF&show_icons=true&theme=radical" width="400px"> </img>
 </div>
 
-<img src="https://media2.giphy.com/media/ZFR9UV7j0pkSC8mdzi/giphy.gif" width="650"> </img>
+</br>
+</br>
 
 
+<div align="center">
+<img src="https://media2.giphy.com/media/ZFR9UV7j0pkSC8mdzi/giphy.gif" width="500"> </img>
+</div>
+
+---
+
+<details>
+     <summary> CLique Aqui Para Detalhes </summary>
+  
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
@@ -113,3 +123,4 @@ HTML                     4 repos             ██████░░░░░�
 
  Last Updated on 02/11/2021
 <!--END_SECTION:waka-->
+</details>  
