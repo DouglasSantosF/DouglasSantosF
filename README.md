@@ -38,4 +38,75 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 609 Contributions in the Year 2021
+ > 
+> 📦 74.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 18 Public Repositories 
+ > 
+> 🔑 6 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.53% 
+🌆 Daytime    168 commits    ███████████░░░░░░░░░░░░░░   45.78% 
+🌃 Evening    142 commits    █████████░░░░░░░░░░░░░░░░   38.69% 
+🌙 Night      11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       62 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.89% 
+Tuesday      55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.99% 
+Wednesday    59 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.08% 
+Thursday     75 commits     █████░░░░░░░░░░░░░░░░░░░░   20.44% 
+Friday       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.9% 
+Saturday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.81% 
+Sunday       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.9%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               13 repos            ███████████████████░░░░░░   76.47% 
+HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
+
+
+ Last Updated on 02/11/2021
 <!--END_SECTION:waka-->
