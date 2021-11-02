@@ -51,6 +51,8 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
      <summary> CLique Aqui Para Detalhes </summary>
   
 <!--START_SECTION:waka-->
+---  
+  
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
