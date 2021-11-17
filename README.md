@@ -51,7 +51,7 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
      <summary> CLique Aqui Para Detalhes </summary>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -94,20 +94,18 @@ Sunday       40 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               4 hrs 12 mins       ███████████████████░░░░░░   79.21% 
-CSS                      1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   20.77% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+JavaScript               3 hrs 47 mins       █████████████████████████   99.96% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-VS Code                  5 hrs 19 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 47 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-doug                     3 hrs 47 mins       █████████████████░░░░░░░░   71.13% 
-sd-013-a-project-movie-ca1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   28.85% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+doug                     3 hrs 47 mins       █████████████████████████   99.96% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 💻 Operating System: 
-Linux                    5 hrs 19 mins       █████████████████████████   100.0%
+Linux                    3 hrs 47 mins       █████████████████████████   100.0%
 
 ```
 
@@ -125,6 +123,6 @@ HTML                     4 repos             ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/11/2021
+ Last Updated on 17/11/2021
 <!--END_SECTION:waka-->
 </details>  
