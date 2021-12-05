@@ -94,16 +94,17 @@ Sunday       40 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     45 mins             █████████████████████████   99.7% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  45 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+trybe-exercises          45 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    45 mins             █████████████████████████   100.0%
 
 ```
 
@@ -121,6 +122,6 @@ HTML                     4 repos             ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/11/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
 </details>  
