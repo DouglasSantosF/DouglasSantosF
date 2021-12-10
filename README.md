@@ -51,7 +51,7 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
      <summary> CLique Aqui Para Detalhes </summary>
   
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -94,17 +94,16 @@ Sunday       40 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Text                     45 mins             █████████████████████████   99.7% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+Git                      0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.0%
+VS Code                  0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-trybe-exercises          45 mins             █████████████████████████   100.0%
+sd-014-c-mysql-all-for-on0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    45 mins             █████████████████████████   100.0%
+Linux                    0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -122,6 +121,6 @@ HTML                     4 repos             ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/12/2021
+ Last Updated on 10/12/2021
 <!--END_SECTION:waka-->
 </details>  
