@@ -94,16 +94,16 @@ Sunday       40 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Git                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sd-014-c-mysql-all-for-on0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -121,6 +121,6 @@ HTML                     4 repos             ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/12/2021
+ Last Updated on 17/12/2021
 <!--END_SECTION:waka-->
 </details>  
