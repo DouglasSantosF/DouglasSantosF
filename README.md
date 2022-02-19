@@ -57,7 +57,7 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 74.4 kB Used in GitHub's Storage 
+> 📦 74.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,18 +94,16 @@ Sunday       40 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               4 hrs 28 mins       ███████████████████████░░   93.83% 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.17%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 45 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sd-014-c-project-talker-m4 hrs 1 min         █████████████████████░░░░   84.46% 
-trybe-exercises          44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 45 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -123,6 +121,6 @@ HTML                     4 repos             ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/02/2022 18:46:24 UTC
+ Last Updated on 19/02/2022 18:47:04 UTC
 <!--END_SECTION:waka-->
 </details>  
