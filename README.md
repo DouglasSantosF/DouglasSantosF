@@ -94,16 +94,18 @@ Sunday       40 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs 18 mins       ██████████████████████░░░   91.14% 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.95% 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 37 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+doug                     3 hrs 37 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
@@ -121,6 +123,6 @@ HTML                     4 repos             ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/02/2022 18:47:04 UTC
+ Last Updated on 22/02/2022 18:47:55 UTC
 <!--END_SECTION:waka-->
 </details>  
