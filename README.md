@@ -94,16 +94,20 @@ Sunday       40 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               42 mins             ██████████████████████░░░   89.39% 
+SQL                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  47 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sd-015-b-store-manager   47 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    47 mins             █████████████████████████   100.0%
 
 ```
 
@@ -121,6 +125,6 @@ HTML                     4 repos             ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/03/2022 18:49:40 UTC
+ Last Updated on 21/03/2022 18:50:18 UTC
 <!--END_SECTION:waka-->
 </details>  
