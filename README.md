@@ -55,13 +55,13 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 1 Contributions in the Year 2022
  > 
 > 📦 162.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
@@ -94,16 +94,20 @@ Sunday       40 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               7 hrs 6 mins        █████████████████████████   100.0%
+JavaScript               1 hr 45 mins        ████████████████████████░   99.07% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-VS Code                  7 hrs 6 mins        █████████████████████████   100.0%
+VS Code                  1 hr 46 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sd-016-b-project-blogs-ap7 hrs 6 mins        █████████████████████████   100.0%
+sd-016-b-project-blogs-ap48 mins             ███████████░░░░░░░░░░░░░░   45.1% 
+doug                     37 mins             █████████░░░░░░░░░░░░░░░░   35.62% 
+meu-primeiro-deploy-herok20 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.28%
 
 💻 Operating System: 
-Linux                    7 hrs 6 mins        █████████████████████████   100.0%
+Linux                    1 hr 46 mins        █████████████████████████   100.0%
 
 ```
 
@@ -121,6 +125,6 @@ HTML                     4 repos             ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/05/2022 18:51:01 UTC
+ Last Updated on 05/05/2022 18:51:03 UTC
 <!--END_SECTION:waka-->
 </details>  
