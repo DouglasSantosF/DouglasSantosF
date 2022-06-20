@@ -25,9 +25,14 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" style="max-width:100%; margin 0 2px;" /></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60"  style="max-width:100%; margin 0 2px;" /></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="max-width:100%; margin 0 2px;"/></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="max-width:100%; margin 0 2px;"/></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" style="max-width:100%; margin 0 2px;/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" style="max-width:100%; margin 0 2px;"/></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50"  style="max-width:100%; margin 0 2px;" /></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70"  style="max-width:100%; margin 0 2px;" /></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70"  style="max-width:100%; margin 0 2px;" /></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" width="70"  style="max-width:100%; margin 0 2px;" /></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="70"  style="max-width:100%; margin 0 2px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60"  style="max-width:100%; margin 0 2px/>
 </p>
 
 ---
@@ -41,9 +46,6 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
 </br>
 
 
-<div align="center">
-<img src="https://media2.giphy.com/media/ZFR9UV7j0pkSC8mdzi/giphy.gif" width="500"> </img>
-</div>
 
 ---
 
