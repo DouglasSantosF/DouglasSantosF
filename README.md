@@ -53,7 +53,7 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
      <summary> CLique Aqui Para Detalhes </summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,7 +61,7 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
 
 > 🏆 114 Contributions in the Year 2022
  > 
-> 📦 236.9 kB Used in GitHub's Storage 
+> 📦 236.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,19 +98,21 @@ Sunday       39 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   3 hrs 31 mins       ████████████████████████░   97.07% 
-CSV                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93%
+Python                   9 hrs 4 mins        ████████████████████████░   99.06% 
+CSV                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  3 hrs 28 mins       █████████████████████████   100.0%
+VS Code                  9 hrs 9 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sd-016-b-project-job-insi4 hrs 22 mins       █████████████████░░░░░░░░   69.71% 
-trybe-exercises          1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   30.12% 
-doug                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+sd-016-b-project-job-insi4 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   42.81% 
+trybe-exercises          4 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   42.47% 
+sd-016-b-inventory-report1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+doug                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Linux                    3 hrs 28 mins       █████████████████████████   100.0%
+Linux                    9 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
@@ -128,6 +130,6 @@ HTML                     4 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/08/2022 18:53:45 UTC
+ Last Updated on 17/08/2022 18:54:50 UTC
 <!--END_SECTION:waka-->
 </details>  
