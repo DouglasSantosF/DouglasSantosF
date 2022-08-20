@@ -53,7 +53,7 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
      <summary> CLique Aqui Para Detalhes </summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,21 +98,17 @@ Sunday       39 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   12 hrs 56 mins      ████████████████████████░   99.34% 
-CSV                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Python                   6 hrs 1 min         █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  13 hrs 1 min        █████████████████████████   100.0%
+VS Code                  6 hrs 1 min         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sd-016-b-inventory-report5 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   38.33% 
-sd-016-b-project-job-insi4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   30.95% 
-trybe-exercises          4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   30.71% 
-doug                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+trybe-exercises          3 hrs 20 mins       ██████████████░░░░░░░░░░░   55.55% 
+sd-016-b-inventory-report2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   44.45%
 
 💻 Operating System: 
-Linux                    13 hrs 1 min        █████████████████████████   100.0%
+Linux                    6 hrs 1 min         █████████████████████████   100.0%
 
 ```
 
@@ -130,6 +126,6 @@ HTML                     4 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2022 18:52:42 UTC
+ Last Updated on 20/08/2022 18:50:00 UTC
 <!--END_SECTION:waka-->
 </details>  
