@@ -53,7 +53,7 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
      <summary> CLique Aqui Para Detalhes </summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,7 +61,7 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
 
 > 🏆 114 Contributions in the Year 2022
  > 
-> 📦 236.8 kB Used in GitHub's Storage 
+> 📦 236.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -128,6 +128,6 @@ HTML                     4 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/08/2022 18:52:14 UTC
+ Last Updated on 23/08/2022 18:51:49 UTC
 <!--END_SECTION:waka-->
 </details>  
