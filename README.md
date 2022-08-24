@@ -53,7 +53,7 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
      <summary> CLique Aqui Para Detalhes </summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,19 +98,18 @@ Sunday       39 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   5 hrs 4 mins        ██████████████████░░░░░░░   71.59% 
-JavaScript               2 hrs               ███████░░░░░░░░░░░░░░░░░░   28.41%
+Python                   4 hrs 29 mins       █████████████████░░░░░░░░   69.04% 
+JavaScript               2 hrs               ███████░░░░░░░░░░░░░░░░░░   30.96%
 
 🔥 Editors: 
-VS Code                  7 hrs 5 mins        █████████████████████████   100.0%
+VS Code                  6 hrs 30 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sd-016-b-inventory-report2 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   37.75% 
-trybe-exercises          2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   33.84% 
-doug                     2 hrs               ███████░░░░░░░░░░░░░░░░░░   28.41%
+sd-016-b-inventory-report4 hrs 29 mins       █████████████████░░░░░░░░   69.04% 
+doug                     2 hrs               ███████░░░░░░░░░░░░░░░░░░   30.96%
 
 💻 Operating System: 
-Linux                    7 hrs 5 mins        █████████████████████████   100.0%
+Linux                    6 hrs 30 mins       █████████████████████████   100.0%
 
 ```
 
@@ -128,6 +127,6 @@ HTML                     4 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/08/2022 18:51:49 UTC
+ Last Updated on 24/08/2022 19:01:48 UTC
 <!--END_SECTION:waka-->
 </details>  
