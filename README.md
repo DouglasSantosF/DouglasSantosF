@@ -53,7 +53,7 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
      <summary> CLique Aqui Para Detalhes </summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,17 +98,17 @@ Sunday       39 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   5 hrs 2 mins        █████████████████████░░░░   84.99% 
-JavaScript               53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.01%
+Python                   5 hrs 1 min         █████████████████████░░░░   84.97% 
+JavaScript               53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.03%
 
 🔥 Editors: 
 VS Code                  5 hrs 55 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sd-016-b-project-algorith3 hrs 8 mins        █████████████░░░░░░░░░░░░   52.99% 
-sd-016-b-tech-news       1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   31.91% 
-doug                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
-trybe-exercises          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
+sd-016-b-project-algorith3 hrs 8 mins        █████████████░░░░░░░░░░░░   53.04% 
+sd-016-b-tech-news       1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   31.94% 
+doug                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+trybe-exercises          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 
 💻 Operating System: 
 Linux                    5 hrs 55 mins       █████████████████████████   100.0%
@@ -129,6 +129,6 @@ HTML                     4 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/09/2022 18:55:39 UTC
+ Last Updated on 03/09/2022 18:53:49 UTC
 <!--END_SECTION:waka-->
 </details>  
