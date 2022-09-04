@@ -53,7 +53,7 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
      <summary> CLique Aqui Para Detalhes </summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -69,52 +69,6 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
  > 
 > 🔑 12 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.21% 
-🌆 Daytime    177 commits    ███████████░░░░░░░░░░░░░░   45.62% 
-🌃 Evening    134 commits    ████████░░░░░░░░░░░░░░░░░   34.54% 
-🌙 Night      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.64%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       89 commits     █████░░░░░░░░░░░░░░░░░░░░   22.94% 
-Tuesday      59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.21% 
-Wednesday    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.43% 
-Thursday     55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
-Friday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.4% 
-Saturday     38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.79% 
-Sunday       39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.05%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Python                   5 hrs 1 min         █████████████████████░░░░   84.97% 
-JavaScript               53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.03%
-
-🔥 Editors: 
-VS Code                  5 hrs 55 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-sd-016-b-project-algorith3 hrs 8 mins        █████████████░░░░░░░░░░░░   53.04% 
-sd-016-b-tech-news       1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   31.94% 
-doug                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
-trybe-exercises          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
-
-💻 Operating System: 
-Linux                    5 hrs 55 mins       █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -129,6 +83,6 @@ HTML                     4 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:53:49 UTC
+ Last Updated on 04/09/2022 18:50:48 UTC
 <!--END_SECTION:waka-->
 </details>  
