@@ -53,7 +53,7 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
      <summary> CLique Aqui Para Detalhes </summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,22 +98,16 @@ Sunday       39 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 3 mins         ███████████████░░░░░░░░░░   62.44% 
-Git Config               16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
-JSON                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.64% 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49%
+Python                   1 min               █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        █████████████████████████   100.0%
+VS Code                  1 min               █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Motrix-Post              1 hr 38 mins        ████████████████████████░   95.64% 
-sd-016-b-project-blogs-ap2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.87% 
-sd-016-b-project-ting    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49%
+sd-016-b-project-ting    1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    1 hr 42 mins        █████████████████████████   100.0%
+Linux                    1 min               █████████████████████████   100.0%
 
 ```
 
@@ -131,6 +125,6 @@ HTML                     4 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 18:57:48 UTC
+ Last Updated on 15/09/2022 18:55:13 UTC
 <!--END_SECTION:waka-->
 </details>  
