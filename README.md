@@ -53,7 +53,7 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
      <summary> CLique Aqui Para Detalhes </summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,18 +98,19 @@ Sunday       39 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   3 hrs 44 mins       █████████████████████████   99.76% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+Python                   4 hrs 31 mins       ███████████████████░░░░░░   76.58% 
+JavaScript               1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   23.26% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
 
 🔥 Editors: 
-VS Code                  3 hrs 45 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 54 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sd-016-b-project-ting    3 hrs 44 mins       █████████████████████████   99.76% 
-doug                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+sd-016-b-project-ting    4 hrs 2 mins        █████████████████░░░░░░░░   68.17% 
+doug                     1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   31.83%
 
 💻 Operating System: 
-Linux                    3 hrs 45 mins       █████████████████████████   100.0%
+Linux                    5 hrs 54 mins       █████████████████████████   100.0%
 
 ```
 
@@ -127,6 +128,6 @@ HTML                     4 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/09/2022 19:00:52 UTC
+ Last Updated on 24/09/2022 18:56:37 UTC
 <!--END_SECTION:waka-->
 </details>  
