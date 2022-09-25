@@ -53,7 +53,7 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
      <summary> CLique Aqui Para Detalhes </summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,19 +98,19 @@ Sunday       39 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   4 hrs 31 mins       ███████████████████░░░░░░   76.58% 
-JavaScript               1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   23.26% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+Python                   2 hrs 48 mins       █████████████░░░░░░░░░░░░   53.79% 
+JavaScript               2 hrs 24 mins       ███████████░░░░░░░░░░░░░░   46.04% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
 
 🔥 Editors: 
-VS Code                  5 hrs 54 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 13 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sd-016-b-project-ting    4 hrs 2 mins        █████████████████░░░░░░░░   68.17% 
-doug                     1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   31.83%
+doug                     3 hrs 7 mins        ███████████████░░░░░░░░░░   59.83% 
+sd-016-b-project-ting    2 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   40.17%
 
 💻 Operating System: 
-Linux                    5 hrs 54 mins       █████████████████████████   100.0%
+Linux                    5 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
@@ -128,6 +128,6 @@ HTML                     4 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/09/2022 18:56:37 UTC
+ Last Updated on 25/09/2022 18:55:06 UTC
 <!--END_SECTION:waka-->
 </details>  
