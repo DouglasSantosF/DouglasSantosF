@@ -59,7 +59,7 @@ desenvolvi ao longo do curso ( Em construção :wink:) e outros que fiz a parte 
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 120 Contributions in the Year 2022
  > 
 > 📦 237.0 kB Used in GitHub's Storage 
  > 
@@ -125,6 +125,6 @@ HTML                     4 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/DouglasSantosF/DouglasSantosF/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/10/2022 19:05:09 UTC
+ Last Updated on 14/10/2022 19:00:44 UTC
 <!--END_SECTION:waka-->
 </details>  
